@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+h1{
+                color: blue;
+            }
+            #para1{
+                text-align: center;
+                color: aqua;
+            }
+            p, h3, h4{
+                color: aliceblue;
+            }
+            .classe{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+            h2.classe{
+                font-size: 20px;
+            }
+            .large{
+                background-color: blueviolet;
+                opacity: 0.5;
+            }
+            h5{
+                border: solid 2px #ff6347, 1;
+            }
